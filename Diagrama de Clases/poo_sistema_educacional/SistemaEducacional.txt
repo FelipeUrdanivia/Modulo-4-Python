@@ -1,0 +1,6 @@
+Se crearon cada una de las clases en el programa.
+Se hizo crearon objetos a base de las clases, entre ellos escuela, alumnos, profesor, asignatura y curso.
+Se llamó a cada uno de los metodos que poseen las clases, lo cual se mostró en base a prints.
+Se crearon listas con los objetos para agrupar un curso y los contenidos de la asignatura.
+Se usaron ciclos for para recorrer estas listas.
+Se agregan comentarios extra en el codigo para mayor claridad.
